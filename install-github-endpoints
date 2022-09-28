@@ -1,0 +1,3 @@
+#!/bin/bash
+
+go install github.com/gwen001/github-endpoints@latest ; mv ~/go/bin/* /usr/bin/
